@@ -16,6 +16,7 @@ main { max-width: 800px; margin: 0 auto; padding: 2rem 1rem; }
 .content li { margin-bottom: 0.8rem; }
 .cta-box { background: #eff6ff; border: 2px dashed var(--primary); padding: 1.5rem; border-radius: 8px; text-align: center; margin-top: 2rem; }
 .btn-primary { background: var(--dark); color: white; border: none; padding: 0.8rem 1.5rem; border-radius: 8px; font-weight: bold; cursor: pointer; margin-top: 1rem; }
+.btn-whatsapp { display: inline-block; background: #25D366; color: white; padding: 0.8rem 1.5rem; text-decoration: none; border-radius: 8px; font-weight: bold; margin-top: 1rem; }
 
 /* Estilos para la comparativa de frameworks */
 .frameworks { margin: 3rem 0; text-align: center; }
